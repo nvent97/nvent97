@@ -2,7 +2,6 @@
 
 ### About me
 
-- 🔭 I’m currently working as a Full Stack Software Engineer
-- 📖 I’m have a Bachelor's Degree in Information Systems Engineering (UTN FBRA)
-- 🍋 I’m interested in Web Development, Data Science and Blockchain technologies
-- ⚽ I like to play soccer and to swim.
+Information Systems Engineer and currently working as a Software Engineer.
+
+I have experience building end to end solutions using agile methodologies with technologies such as React, Python, Node, C++, Groovy, SQL and MongoDB, among others.
